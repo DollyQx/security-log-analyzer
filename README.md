@@ -68,3 +68,7 @@ graph TD
 - `backend/`: API and services.
 - `frontend/`: React application.
 - `sample_logs.txt`: Provided for testing.
+
+## Security
+
+Please refer to [SECURITY.md](SECURITY.md) for security policy guidelines and threat detection rules.
